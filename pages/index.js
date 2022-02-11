@@ -27,7 +27,6 @@ export default function Home() {
                   </Link>
         </div>
          <div className={styles.grid}>
-                  <br/> <br/>
                   <Link href="/charging" className={styles.card}>
                     <h2>Charging &rarr;</h2>
                   </Link>
