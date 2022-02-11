@@ -12,7 +12,7 @@ export default function Vehicles() {
 
             <div className={styles.card}>
                 <h2>Commercial Vehicles</h2>
-                <p>Ford Pro offers market-leading work-ready commercial vehicles to suit every business need. Ford offers the broadest lineup of commercial vehicles in the U.S. market*, including the iconic F-Series pickups. In Europe, Ford has been the market-leading brand for six years, with a full range of Transit vans and Ranger pickup trucks helping customers' businesses thrive.
+                <p>Ford Pro offers market-leading work-ready commercial vehicles to suit every business need. Ford offers the broadest lineup of commercial vehicles in the U.S. market*, including the iconic F-Series pickups. In Europe, Ford has been the market-leading brand for six years, with a full range of Transit vans and Ranger pickup trucks helping customers businesses thrive.
 
                     *Commercial vehicles defined as class 1c-7
                 </p>
@@ -20,7 +20,7 @@ export default function Vehicles() {
 
             <div className={styles.card}>
                 <h2>Electric Truck and Van</h2>
-                <p>We're leading the charge with electrified versions of our best-selling commercial vehicles, 2022 E-Transit* and 2022 F-150 Lightning Pro,** designed to seamlessly plug into your existing fleet.
+                <p>We are leading the charge with electrified versions of our best-selling commercial vehicles, 2022 E-Transit* and 2022 F-150 Lightning Pro,** designed to seamlessly plug into your existing fleet.
 
                     *Available late 2021.
                     **Available starting spring 2022.

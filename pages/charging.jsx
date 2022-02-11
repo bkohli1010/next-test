@@ -7,7 +7,7 @@ export default function Charging() {
                 Ford Pro Charging
             </h1>
             <p className={styles.description}>
-                We're making commercial charging easy by providing simple charging solutions for any business to cost-effectively operate an electric fleet with utmost peace of mind.
+                We are making commercial charging easy by providing simple charging solutions for any business to cost-effectively operate an electric fleet with utmost peace of mind.
             </p>
 
             <div className={styles.card}>

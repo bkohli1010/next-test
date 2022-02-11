@@ -22,12 +22,12 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-                  <Link href="/vehicles" className={styles.card}>
+                  <Link href="/vehicles" className={styles.card} passHref>
                      <h2>Vehicles &rarr;</h2>
                   </Link>
         </div>
          <div className={styles.grid}>
-                  <Link href="/charging" className={styles.card}>
+                  <Link href="/charging" className={styles.card} passHref>
                     <h2>Charging &rarr;</h2>
                   </Link>
         </div>
